@@ -7,7 +7,7 @@
 
   [Youtube link](https://youtu.be/JrXG0CLTBeE)
   
-![screen shot](Capture.JPG "Screen shot")    
+![screen shot](AppPic.png "Screen shot")    
   ## Table of contents:  
   * [description](#description)
   * [Installation](#Installation)

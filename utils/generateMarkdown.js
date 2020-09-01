@@ -13,23 +13,3 @@ function generateMarkdown(data) {
   * [License](#license)
   * [Testing](#testing)
   * [Questions](#questions)
-  
-  ## Description:
-  ${data.description}
-  ## Installation:
-  ${data.installation}
-  ## Usage:
-  ${data.usage}
-  ## license:
-  ${data.license}
-  
-  ## Contributing:
-  ${data.contribute}
-  ## Testing:
-  ${data.tests}
-  ## Questions:
-  Contact ${data.name} with any questions at ${data.contact}
-`;
-}
-
-module.exports = generateMarkdown;
